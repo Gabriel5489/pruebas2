@@ -1,0 +1,104 @@
+[
+    {
+        "intIdVenta":5,
+        "Total_Venta":7460,
+        "vchIdPayment":"ch_3JNBe4GSqsqx8ql022xlQ7Ia",
+        "intUser_id":95,
+        "intDireccion_id":24,
+        "created_at":"2021-08-11T07:14:37.000000Z",
+        "updated_at":"2021-08-11T07:14:37.000000Z",
+        "dets": [
+            {
+                "intIdVentaDet":2,
+                "intIdVenta":5,
+                "intIDProd":77,
+                "intCant":5,
+                "fltPrecio":460,
+                "created_at":"2021-08-11T07:14:37.000000Z",
+                "updated_at":"2021-08-11T07:14:37.000000Z",
+                "producto": { 
+                    "intIDProd":77,
+                    "vchImg":"storage\/img\/1PKGacx4r5RVW0QXIy1Top1r81FUnrwbaMbznrCy.jpeg",
+                    "vchProd":"Vestido tradicional de yucatan","vchDesc":"Dise\u00f1o inovador",
+                    "vchTalla":"Mediana",
+                    "intCant":12,
+                    "fltPrecio":460,
+                    "intIdCat":2,"created_at":null,
+                    "updated_at":null
+                }
+            },
+            {
+                "intIdVentaDet":3,
+                "intIdVenta":5,
+                "intIDProd":76,
+                "intCant":12,
+                "fltPrecio":430,
+                "created_at":"2021-08-11T07:14:37.000000Z",
+                "updated_at":"2021-08-11T07:14:37.000000Z",
+                "producto": {
+                    "intIDProd":76,"vchImg":"storage\/img\/fsVPZHa7lXJe0nX6giDbepmzBL4wQp4AQ9QGhTLT.jpeg",
+                    "vchProd":"Blusa bordada",
+                    "vchDesc":"Fresca ideal para la temporada de calor con colores llamativos que alegraran tu dia",
+                    "vchTalla":"Mediana ",
+                    "intCant":12,
+                    "fltPrecio":430,
+                    "intIdCat":2,
+                    "created_at":null,
+                    "updated_at":null
+                }
+            }
+        ]
+    },
+    {
+        "intIdVenta":6,
+        "Total_Venta":7460,
+        "vchIdPayment":"ch_3JNBg4GSqsqx8ql004QORFYx",
+        "intUser_id":95,
+        "intDireccion_id":24,
+        "created_at":"2021-08-11T07:16:40.000000Z",
+        "updated_at":"2021-08-11T07:16:40.000000Z",
+        "dets": [
+            {
+                "intIdVentaDet":4,
+                "intIdVenta":6,
+                "intIDProd":77,
+                "intCant":5,
+                "fltPrecio":460,
+                "created_at":"2021-08-11T07:16:40.000000Z",
+                "updated_at":"2021-08-11T07:16:40.000000Z",
+                "producto": {
+                    "intIDProd":77,
+                    "vchImg":"storage\/img\/1PKGacx4r5RVW0QXIy1Top1r81FUnrwbaMbznrCy.jpeg",
+                    "vchProd":"Vestido tradicional de yucatan","vchDesc":"Dise\u00f1o inovador",
+                    "vchTalla":"Mediana",
+                    "intCant":12,
+                    "fltPrecio":460,
+                    "intIdCat":2,
+                    "created_at":null,
+                    "updated_at":null
+                }
+            },
+            {
+                "intIdVentaDet":5,
+                "intIdVenta":6,
+                "intIDProd":76,
+                "intCant":12,
+                "fltPrecio":430,
+                "created_at":"2021-08-11T07:16:40.000000Z",
+                "updated_at":"2021-08-11T07:16:40.000000Z",
+                "producto": {
+                    "intIDProd":76,
+                    "vchImg":"storage\/img\/fsVPZHa7lXJe0nX6giDbepmzBL4wQp4AQ9QGhTLT.jpeg",
+                    "vchProd":"Blusa bordada",
+                    "vchDesc":"Fresca ideal para la temporada de calor con colores llamativos que alegraran tu dia",
+                    "vchTalla":"Mediana ",
+                    "intCant":12,
+                    "fltPrecio":430,
+                    "intIdCat":2,
+                    "created_at":null,
+                    "updated_at":null
+                }
+            }
+        ]
+    }
+]
