@@ -29,6 +29,9 @@ export default function ProductStack() {
             <Stack.Screen name="SearchProducts" component={SearchProducts}
                 options={{ headerShown: false }}
             />
+            <Stack.Screen name="AdvSearch" component={AdvSearch}
+                options={{ headerShown: false }}
+            />
             <Stack.Screen name="Payment" component={Payment}
                 options={{ headerShown: false }}
             />
